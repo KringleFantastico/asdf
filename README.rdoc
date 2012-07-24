@@ -1,3 +1,6 @@
+This is one of my initial apps. I am trying to create a wiki, of sorts. 
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
